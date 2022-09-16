@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-16T21:26:45.157Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="QNE5eqE0bnxnl6_Qzd1X" version="20.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-16T21:27:02.283Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="G7yW10rCRboOi3LK9oZS" version="20.3.2" type="github">
   <diagram id="qLzMe18_uVdomcu7LG07" name="Page-1">
-    <mxGraphModel dx="1680" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1632" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,13 +48,10 @@
           <mxGeometry y="80" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="M-cZQk0PQd9_l-VD5DMk-21" value="Planrepas" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="570" y="250" width="220" height="130" as="geometry" />
+          <mxGeometry x="570" y="250" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="M-cZQk0PQd9_l-VD5DMk-22" value="prixrepas" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="M-cZQk0PQd9_l-VD5DMk-21" vertex="1">
           <mxGeometry y="30" width="220" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="M-cZQk0PQd9_l-VD5DMk-23" value="prixrepas" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="M-cZQk0PQd9_l-VD5DMk-21" vertex="1">
-          <mxGeometry y="80" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="M-cZQk0PQd9_l-VD5DMk-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -149,6 +146,9 @@
               <mxPoint x="1029.7" y="155.92" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="M-cZQk0PQd9_l-VD5DMk-23" value="prixrepas" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="1" vertex="1">
+          <mxGeometry x="420" y="310" width="220" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
